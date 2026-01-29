@@ -27,7 +27,7 @@ export interface FetchDanmakuResponse {
 }
 
 // API 基础配置
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://wmh.onrender.com/api';
 
 /**
  * 发送弹幕到后端
